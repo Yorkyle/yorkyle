@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/yorkyle">Educator</a>, <a href="https://www.linkedin.com/in/kyle-york-cyber/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
