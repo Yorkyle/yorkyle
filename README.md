@@ -1,13 +1,13 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">Cybersecurity Professional (CyberUp) and Software Development Trainee (LaunchCode)</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔏 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>☁️ Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/yorkyle/Azure-Cloud-SOC)
  
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Retro Pokemon-Style Battle Simulator</b>
+- <b>🕹️ Retro Pokemon-Style Battle Simulator</b>
   - [Kaiju Battle Arena HTML Game](https://github.com/yorkyle/Kaiju-Battle-Arena)
 
 <h2> 🤳 Connect with me:</h2>
