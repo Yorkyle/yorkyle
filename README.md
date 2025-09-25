@@ -6,7 +6,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/yorkyle/Azure-Cloud-SOC)
 
 - <b>🤖 MiniSOC</b>
-  - [MiniSOC](https://github.com/yorkyle/MiniSOC)
+  - [MiniSOC in Windows 11 with Sysmon](https://github.com/yorkyle/MiniSOC)
  
 <h2>👨‍💻 Web Development Projects:</h2>
 
