@@ -3,7 +3,7 @@
 <h2>🔏 Cybersecurity Projects:</h2>
 
 - <b>☁️ Threat Detection and Response</b>
-  - [Creating a Live SOCHoneynet in Azure](https://github.com/yorkyle/Azure-Cloud-SOC)
+  - [Creating a Live SOC / Honeynet in MS Azure](https://github.com/yorkyle/Azure-Cloud-SOC)
 
 - <b>🤖 MiniSOC</b>
   - [MiniSOC in Windows 11 with Sysmon](https://github.com/yorkyle/MiniSOC)
