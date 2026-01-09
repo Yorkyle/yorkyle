@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">Cybersecurity Professional (CyberUp) and Software Development Trainee (LaunchCode)</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">Cybersecurity Instructor (CyberUp) and Incident Response Specialist (Boeing)</a>
 
 <h2>🔏 Cybersecurity Projects:</h2>
 
