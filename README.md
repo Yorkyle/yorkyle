@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">IT Instructor (CyberUp) and IT Professional (Boeing)</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-york-cyber/">Instructor and IT Professional</a>
 
 <h2>🔏 Cybersecurity Projects:</h2>
 
